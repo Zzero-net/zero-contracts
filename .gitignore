@@ -8,9 +8,6 @@
 .env.*
 !.env.example
 
-# Dependencies
-/lib/
-
 # OS
 .DS_Store
 Thumbs.db
